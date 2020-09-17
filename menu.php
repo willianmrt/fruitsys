@@ -37,17 +37,7 @@
             <div id="header" class="header navbar-default">
                 <!-- begin navbar-header -->
                 <div class="navbar-header">
-                    <a href="index.html" class="navbar-brand"><span class="navbar-logo"></span> <b>Fruit</b>sys</a>
-                    <button type="button" class="navbar-toggle" data-click="sidebar-toggled">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <button type="button" class="navbar-toggle-xl" data-click="sidebar-minify">
-                        <span class="icon-bar-xl"></span>
-                        <span class="icon-bar-xl"></span>
-                        <span class="icon-bar-xl"></span>
-                    </button>
+                    <a href="index.html" class="navbar-brand"><span class="navbar-logo"></span> <b>Fruit</b>sys</a>                                       
                 </div>
                 <!-- end navbar-header -->
 
